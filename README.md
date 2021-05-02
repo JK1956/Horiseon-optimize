@@ -15,11 +15,11 @@ The following project is a code refactor of the homepage of the Horiseon website
 
 The website homepage will appear as the following once deployed in a traditonal desktop browser:
 
-![deployed immediate index.html](./assets/images.screenshot.jpg)
+![Traditional](assets/images/screenshot.JPG)
 
 The website homepage will appear as the following once deployed in a desktop browser with a width of 1024px:
 
-![deployed 1024px index.html](./assets/images.screenshot1024.jpg)
+![1024px](assets/images/screenshot1024.JPG)
 
 The webpage was not yet optimized for smaller screen sizes
 
@@ -31,14 +31,15 @@ The website homepage is intended to be viewed and operated in a desktop browser 
 
 Website Homepage:
 
-[Link to deployed homepage](https://JK1956.github.io/horiseon-optimize/)
+* [Link to deployed homepage](https://jk1956.github.io/Horiseon-optimize/)
 
-[Link to github repository](https://github.com/JK1956/Horiseon-optimize)
+* [Link to github repository](https://github.com/JK1956/Horiseon-optimize)
 
 ## References and outside sources
 * [w3 Schools, Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Horizon Shortcut Icon Source](https://www.pngwing.com/en/free-png-dxsvn)
 * [Stack Overflow: Add Alt Text to README.md](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository)
+* [Medium: Add screenshot to README.md](https://medium.com/@justynagolawska/how-to-easily-add-screenshots-into-your-readme-file-on-github-d806a01d6ffd)
 * [Quora: Add Hyperlink to README.md](https://www.quora.com/How-do-I-create-a-hyperlink-in-the-README-file-in-my-GitHub-account-which-would-redirect-to-a-new-page-containing-the-project-explanation)
 * [README.md Assistance](https://blog.bitsrc.io/how-to-write-beautiful-and-meaningful-readme-md-for-your-next-project-897045e3f991)
 * [MIT License](https://choosealicense.com/licenses/mit/)
