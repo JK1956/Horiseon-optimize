@@ -15,11 +15,11 @@ The following project is a code refactor of the homepage of the Horiseon website
 
 The website homepage will appear as the following once deployed in a traditonal desktop browser:
 
-![deployed immediate index.html](https://github.com/JK1956/horiseon-optimize/assets/images/screenshot.jpg)
+![deployed immediate index.html](https://github.com/JK1956/Horiseon-optimize/blob/dc5788afeb39f41f771c951531b580aeb2b37c93/assets/images/screenshot.JPG)
 
 The website homepage will appear as the following once deployed in a desktop browser with a width of 1024px:
 
-![deployed 1024px index.html](https://github.com/JK1956/horiseon-optimize/assets/images/screenshot1024.jpg)
+![deployed 1024px index.html](https://github.com/JK1956/Horiseon-optimize/blob/dc5788afeb39f41f771c951531b580aeb2b37c93/assets/images/screenshot1024.JPG)
 
 The webpage was not yet optimized for smaller screen sizes
 
