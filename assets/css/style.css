@@ -1,3 +1,6 @@
+/* Keep styling changes organized to follow logical & semantic structure */
+
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +11,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Improve flex/float of header: only appears normal at very large screen sizes*/ 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
