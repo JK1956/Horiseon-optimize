@@ -31,7 +31,7 @@ The website homepage is intended to be viewed and operated in a desktop browser 
 
 Website Homepage:
 
-* [Link to deployed homepage](https://JK1956.github.io/Horiseon-optimize/)
+* [Link to deployed homepage](https://jk1956.github.io/Horiseon-optimize/)
 
 * [Link to github repository](https://github.com/JK1956/Horiseon-optimize)
 
